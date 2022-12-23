@@ -16,8 +16,8 @@ This is an alt. All of my least interesting repositories are in my main
   
   <a href="https://github.com/kawata0210">Click me to go to my main!</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruinaigelreogo&repo=whatismyip)](https://github.com/ruinaigelreogo/whatismyip)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruinaigelreogo&repo=ruinaigelreogo.github.io)](https://github.com/ruinaigelreogo/ruinaigelreogo.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruihq&repo=whatismyip)](https://github.com/ruihq/whatismyip)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruihq&repo=ruihq.github.io)](https://github.com/ruihq/ruihq.github.io)
 
 ![image](https://user-images.githubusercontent.com/120704613/208613052-af67d4ec-9b80-4fce-a9fb-12b3595f9a3f.png)
 
