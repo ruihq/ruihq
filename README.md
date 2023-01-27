@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rui! ```Lunime ૮ ˶ᵔ ᵕ ᵔ˶ ა```
+# Hi, I'm Rui!
 
   - 👀 I’m interested in HTML,CSS,JS
 
@@ -8,23 +8,4 @@
 
   - 💞️ I’m looking to collaborate on JavaScript
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruihq&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruihq&layout=compact)](https://github.com/ruinaigelreogo)
-
-This is an alt. All of my least interesting repositories are in my main
-  
-  <a href="https://github.com/kawata0210">Click me to go to my main!</a>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruihq&repo=whatismyip)](https://github.com/ruihq/whatismyip)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruihq&repo=ruihq.github.io)](https://github.com/ruihq/ruihq.github.io)
-
-![image](https://user-images.githubusercontent.com/120704613/208613052-af67d4ec-9b80-4fce-a9fb-12b3595f9a3f.png)
-
-## Have a wonderful day! ૮ ˶ᵔ ᵕ ᵔ˶ ა
-
-<a href="https://github.com/kawata0210"><img src="github-user-contribution.svg"></a>
-  </div>
-
-
-
+I learned workflows (yml)
