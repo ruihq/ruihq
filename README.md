@@ -1,9 +1,5 @@
-<div align="center">
-<p>https://g.dev/ruii</p>
-
-![](https://github-readme-stats.vercel.app/api?username=ruihq&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+(ruihq/Rui)
 
 [![](https://visitcount.itsvg.in/api?id=ruihq&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
 
 
